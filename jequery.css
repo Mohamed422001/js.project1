@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* button{
+    padding: 20px 50px;
+    background-color: gray;
+    color: aliceblue;
+    cursor: pointer;
+    margin-left: 150px;
+} */
+
+/* .box{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.box div{
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+    cursor: pointer;
+    transition: .5s;
+} */
+
+
+/* .box{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+}
+.box button{
+    padding: 20px 40px;
+    background-color: gray;
+    color: antiquewhite;
+    border: none;
+    cursor: pointer;
+}
+.box section{
+    width: 500px;
+    height: 300px;
+    background-color: teal;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: aliceblue;
+} */
+
+/* .continer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    height: 400vh;
+    margin-top: 200px;
+}
+.continer .img{
+   width: calc((100% - 40px)/2);
+   border: 2px solid gray;
+   box-shadow: rgba(14, 63, 126, 0.04) 0px 0px 0px 1px, rgba(42, 51, 69, 0.04) 0px 1px 1px -0.5px, rgba(42, 51, 70, 0.04) 0px 3px 3px -1.5px, rgba(42, 51, 70, 0.04) 0px 6px 6px -3px, rgba(14, 63, 126, 0.04) 0px 12px 12px -6px, rgba(14, 63, 126, 0.04) 0px 24px 24px -12px;
+
+}
+.continer .img img{
+    width: 100%;
+    
+
+ }
+ .continer .details{
+    width: calc((100% - 40px)/2);
+   min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 2px solid gray;
+    background-color: teal;
+    color: aliceblue;
+ }
+
+ .continer .details h1{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    
+ }
+ .continer .details p{
+    font-size: 20px;
+    font-style: italic;
+  
+ }
+ body{
+    height: 1000vh;
+ }
+
+
+ section{
+    width: 50%;
+    height: 200px;
+    background-color: tan;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin: auto;
+ } */
+
+
+ body{
+    height: 1000vh;
+ }
+
+ .continer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 50vh;
+ }
+ .continer button{
+    padding: 10px 30px;
+    font-size: 20px;
+    background-color: teal;
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+ }
+
+ .continer div{
+    width: 100px;
+    height: 100px;
+    background-color: tan;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    flex-direction: column;
+    gap: 10px;
+    display: none;
+ }
